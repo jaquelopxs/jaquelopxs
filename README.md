@@ -16,6 +16,7 @@
 - Desenvolvimento de Software Seguro  
 - Automação e Scripts em Python  
 - Aprendizado contínuo e desafios tecnológicos
+  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
