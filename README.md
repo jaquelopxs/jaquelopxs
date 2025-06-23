@@ -10,7 +10,7 @@
 - 💡 Amo programar, explorar novas tecnologias e entender como as coisas funcionam por trás da tela.  
 - 💖 Me esforço ao máximo nos projetos, sempre com carinho e atenção aos detalhes.   
 
-## 🎯 🧑‍💻 Estudandos e interests
+## 🎯 🧑‍💻 Estudos e Interesses
 - Segurança da Informação e Cybersecurity  
 - Infraestrutura e Redes de Computadores  
 - Desenvolvimento de Software Seguro  
